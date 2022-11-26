@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+.fondo{
+    background-image:url(algo.png);
+    background-position: center;
+    background-size: cover;
+}
+#MYcanvas{
+background-color: white;
+border-color: black;
+border-width: 10px;
+border-style: dotted;
+}
